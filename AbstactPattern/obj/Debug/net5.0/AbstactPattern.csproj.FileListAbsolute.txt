@@ -1,0 +1,16 @@
+D:\repo\Design-Pattern\DesignPatter\AbstactPattern\bin\Debug\net5.0\AbstactPattern.exe
+D:\repo\Design-Pattern\DesignPatter\AbstactPattern\bin\Debug\net5.0\AbstactPattern.deps.json
+D:\repo\Design-Pattern\DesignPatter\AbstactPattern\bin\Debug\net5.0\AbstactPattern.runtimeconfig.json
+D:\repo\Design-Pattern\DesignPatter\AbstactPattern\bin\Debug\net5.0\AbstactPattern.runtimeconfig.dev.json
+D:\repo\Design-Pattern\DesignPatter\AbstactPattern\bin\Debug\net5.0\AbstactPattern.dll
+D:\repo\Design-Pattern\DesignPatter\AbstactPattern\bin\Debug\net5.0\AbstactPattern.pdb
+D:\repo\Design-Pattern\DesignPatter\AbstactPattern\obj\Debug\net5.0\AbstactPattern.csproj.AssemblyReference.cache
+D:\repo\Design-Pattern\DesignPatter\AbstactPattern\obj\Debug\net5.0\AbstactPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\repo\Design-Pattern\DesignPatter\AbstactPattern\obj\Debug\net5.0\AbstactPattern.AssemblyInfoInputs.cache
+D:\repo\Design-Pattern\DesignPatter\AbstactPattern\obj\Debug\net5.0\AbstactPattern.AssemblyInfo.cs
+D:\repo\Design-Pattern\DesignPatter\AbstactPattern\obj\Debug\net5.0\AbstactPattern.csproj.CoreCompileInputs.cache
+D:\repo\Design-Pattern\DesignPatter\AbstactPattern\obj\Debug\net5.0\AbstactPattern.dll
+D:\repo\Design-Pattern\DesignPatter\AbstactPattern\obj\Debug\net5.0\refint\AbstactPattern.dll
+D:\repo\Design-Pattern\DesignPatter\AbstactPattern\obj\Debug\net5.0\AbstactPattern.pdb
+D:\repo\Design-Pattern\DesignPatter\AbstactPattern\obj\Debug\net5.0\AbstactPattern.genruntimeconfig.cache
+D:\repo\Design-Pattern\DesignPatter\AbstactPattern\obj\Debug\net5.0\ref\AbstactPattern.dll

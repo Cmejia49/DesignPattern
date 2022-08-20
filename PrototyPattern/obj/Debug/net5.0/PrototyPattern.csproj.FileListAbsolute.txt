@@ -1,0 +1,16 @@
+D:\repo\Design-Pattern\DesignPatter\PrototyPattern\bin\Debug\net5.0\PrototyPattern.exe
+D:\repo\Design-Pattern\DesignPatter\PrototyPattern\bin\Debug\net5.0\PrototyPattern.deps.json
+D:\repo\Design-Pattern\DesignPatter\PrototyPattern\bin\Debug\net5.0\PrototyPattern.runtimeconfig.json
+D:\repo\Design-Pattern\DesignPatter\PrototyPattern\bin\Debug\net5.0\PrototyPattern.runtimeconfig.dev.json
+D:\repo\Design-Pattern\DesignPatter\PrototyPattern\bin\Debug\net5.0\PrototyPattern.dll
+D:\repo\Design-Pattern\DesignPatter\PrototyPattern\bin\Debug\net5.0\PrototyPattern.pdb
+D:\repo\Design-Pattern\DesignPatter\PrototyPattern\obj\Debug\net5.0\PrototyPattern.csproj.AssemblyReference.cache
+D:\repo\Design-Pattern\DesignPatter\PrototyPattern\obj\Debug\net5.0\PrototyPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\repo\Design-Pattern\DesignPatter\PrototyPattern\obj\Debug\net5.0\PrototyPattern.AssemblyInfoInputs.cache
+D:\repo\Design-Pattern\DesignPatter\PrototyPattern\obj\Debug\net5.0\PrototyPattern.AssemblyInfo.cs
+D:\repo\Design-Pattern\DesignPatter\PrototyPattern\obj\Debug\net5.0\PrototyPattern.csproj.CoreCompileInputs.cache
+D:\repo\Design-Pattern\DesignPatter\PrototyPattern\obj\Debug\net5.0\PrototyPattern.dll
+D:\repo\Design-Pattern\DesignPatter\PrototyPattern\obj\Debug\net5.0\refint\PrototyPattern.dll
+D:\repo\Design-Pattern\DesignPatter\PrototyPattern\obj\Debug\net5.0\PrototyPattern.pdb
+D:\repo\Design-Pattern\DesignPatter\PrototyPattern\obj\Debug\net5.0\PrototyPattern.genruntimeconfig.cache
+D:\repo\Design-Pattern\DesignPatter\PrototyPattern\obj\Debug\net5.0\ref\PrototyPattern.dll
