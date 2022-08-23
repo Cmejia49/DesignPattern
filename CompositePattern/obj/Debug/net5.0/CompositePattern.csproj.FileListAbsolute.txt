@@ -1,0 +1,16 @@
+D:\repo\Design-Pattern\DesignPatter\CompositePattern\obj\Debug\net5.0\CompositePattern.csproj.AssemblyReference.cache
+D:\repo\Design-Pattern\DesignPatter\CompositePattern\obj\Debug\net5.0\CompositePattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\repo\Design-Pattern\DesignPatter\CompositePattern\obj\Debug\net5.0\CompositePattern.AssemblyInfoInputs.cache
+D:\repo\Design-Pattern\DesignPatter\CompositePattern\obj\Debug\net5.0\CompositePattern.AssemblyInfo.cs
+D:\repo\Design-Pattern\DesignPatter\CompositePattern\obj\Debug\net5.0\CompositePattern.csproj.CoreCompileInputs.cache
+D:\repo\Design-Pattern\DesignPatter\CompositePattern\bin\Debug\net5.0\CompositePattern.exe
+D:\repo\Design-Pattern\DesignPatter\CompositePattern\bin\Debug\net5.0\CompositePattern.deps.json
+D:\repo\Design-Pattern\DesignPatter\CompositePattern\bin\Debug\net5.0\CompositePattern.runtimeconfig.json
+D:\repo\Design-Pattern\DesignPatter\CompositePattern\bin\Debug\net5.0\CompositePattern.runtimeconfig.dev.json
+D:\repo\Design-Pattern\DesignPatter\CompositePattern\bin\Debug\net5.0\CompositePattern.dll
+D:\repo\Design-Pattern\DesignPatter\CompositePattern\bin\Debug\net5.0\CompositePattern.pdb
+D:\repo\Design-Pattern\DesignPatter\CompositePattern\obj\Debug\net5.0\CompositePattern.dll
+D:\repo\Design-Pattern\DesignPatter\CompositePattern\obj\Debug\net5.0\refint\CompositePattern.dll
+D:\repo\Design-Pattern\DesignPatter\CompositePattern\obj\Debug\net5.0\CompositePattern.pdb
+D:\repo\Design-Pattern\DesignPatter\CompositePattern\obj\Debug\net5.0\CompositePattern.genruntimeconfig.cache
+D:\repo\Design-Pattern\DesignPatter\CompositePattern\obj\Debug\net5.0\ref\CompositePattern.dll

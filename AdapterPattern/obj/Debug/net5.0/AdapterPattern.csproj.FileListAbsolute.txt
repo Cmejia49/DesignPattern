@@ -1,0 +1,16 @@
+D:\repo\Design-Pattern\DesignPatter\AdapterPattern\obj\Debug\net5.0\AdapterPattern.csproj.AssemblyReference.cache
+D:\repo\Design-Pattern\DesignPatter\AdapterPattern\obj\Debug\net5.0\AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\repo\Design-Pattern\DesignPatter\AdapterPattern\obj\Debug\net5.0\AdapterPattern.AssemblyInfoInputs.cache
+D:\repo\Design-Pattern\DesignPatter\AdapterPattern\obj\Debug\net5.0\AdapterPattern.AssemblyInfo.cs
+D:\repo\Design-Pattern\DesignPatter\AdapterPattern\obj\Debug\net5.0\AdapterPattern.csproj.CoreCompileInputs.cache
+D:\repo\Design-Pattern\DesignPatter\AdapterPattern\bin\Debug\net5.0\AdapterPattern.exe
+D:\repo\Design-Pattern\DesignPatter\AdapterPattern\bin\Debug\net5.0\AdapterPattern.deps.json
+D:\repo\Design-Pattern\DesignPatter\AdapterPattern\bin\Debug\net5.0\AdapterPattern.runtimeconfig.json
+D:\repo\Design-Pattern\DesignPatter\AdapterPattern\bin\Debug\net5.0\AdapterPattern.runtimeconfig.dev.json
+D:\repo\Design-Pattern\DesignPatter\AdapterPattern\bin\Debug\net5.0\AdapterPattern.dll
+D:\repo\Design-Pattern\DesignPatter\AdapterPattern\bin\Debug\net5.0\AdapterPattern.pdb
+D:\repo\Design-Pattern\DesignPatter\AdapterPattern\obj\Debug\net5.0\AdapterPattern.dll
+D:\repo\Design-Pattern\DesignPatter\AdapterPattern\obj\Debug\net5.0\refint\AdapterPattern.dll
+D:\repo\Design-Pattern\DesignPatter\AdapterPattern\obj\Debug\net5.0\AdapterPattern.pdb
+D:\repo\Design-Pattern\DesignPatter\AdapterPattern\obj\Debug\net5.0\AdapterPattern.genruntimeconfig.cache
+D:\repo\Design-Pattern\DesignPatter\AdapterPattern\obj\Debug\net5.0\ref\AdapterPattern.dll

@@ -1,0 +1,16 @@
+D:\repo\Design-Pattern\DesignPatter\BridePattern\bin\Debug\net5.0\BridePattern.exe
+D:\repo\Design-Pattern\DesignPatter\BridePattern\bin\Debug\net5.0\BridePattern.deps.json
+D:\repo\Design-Pattern\DesignPatter\BridePattern\bin\Debug\net5.0\BridePattern.runtimeconfig.json
+D:\repo\Design-Pattern\DesignPatter\BridePattern\bin\Debug\net5.0\BridePattern.runtimeconfig.dev.json
+D:\repo\Design-Pattern\DesignPatter\BridePattern\bin\Debug\net5.0\BridePattern.dll
+D:\repo\Design-Pattern\DesignPatter\BridePattern\bin\Debug\net5.0\BridePattern.pdb
+D:\repo\Design-Pattern\DesignPatter\BridePattern\obj\Debug\net5.0\BridePattern.csproj.AssemblyReference.cache
+D:\repo\Design-Pattern\DesignPatter\BridePattern\obj\Debug\net5.0\BridePattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\repo\Design-Pattern\DesignPatter\BridePattern\obj\Debug\net5.0\BridePattern.AssemblyInfoInputs.cache
+D:\repo\Design-Pattern\DesignPatter\BridePattern\obj\Debug\net5.0\BridePattern.AssemblyInfo.cs
+D:\repo\Design-Pattern\DesignPatter\BridePattern\obj\Debug\net5.0\BridePattern.csproj.CoreCompileInputs.cache
+D:\repo\Design-Pattern\DesignPatter\BridePattern\obj\Debug\net5.0\BridePattern.dll
+D:\repo\Design-Pattern\DesignPatter\BridePattern\obj\Debug\net5.0\refint\BridePattern.dll
+D:\repo\Design-Pattern\DesignPatter\BridePattern\obj\Debug\net5.0\BridePattern.pdb
+D:\repo\Design-Pattern\DesignPatter\BridePattern\obj\Debug\net5.0\BridePattern.genruntimeconfig.cache
+D:\repo\Design-Pattern\DesignPatter\BridePattern\obj\Debug\net5.0\ref\BridePattern.dll
