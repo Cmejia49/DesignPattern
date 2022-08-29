@@ -1,0 +1,16 @@
+D:\repo\Design-Pattern\DesignPatter\Flyweight\bin\Debug\net5.0\Flyweight.exe
+D:\repo\Design-Pattern\DesignPatter\Flyweight\bin\Debug\net5.0\Flyweight.deps.json
+D:\repo\Design-Pattern\DesignPatter\Flyweight\bin\Debug\net5.0\Flyweight.runtimeconfig.json
+D:\repo\Design-Pattern\DesignPatter\Flyweight\bin\Debug\net5.0\Flyweight.runtimeconfig.dev.json
+D:\repo\Design-Pattern\DesignPatter\Flyweight\bin\Debug\net5.0\Flyweight.dll
+D:\repo\Design-Pattern\DesignPatter\Flyweight\bin\Debug\net5.0\Flyweight.pdb
+D:\repo\Design-Pattern\DesignPatter\Flyweight\obj\Debug\net5.0\Flyweight.csproj.AssemblyReference.cache
+D:\repo\Design-Pattern\DesignPatter\Flyweight\obj\Debug\net5.0\Flyweight.GeneratedMSBuildEditorConfig.editorconfig
+D:\repo\Design-Pattern\DesignPatter\Flyweight\obj\Debug\net5.0\Flyweight.AssemblyInfoInputs.cache
+D:\repo\Design-Pattern\DesignPatter\Flyweight\obj\Debug\net5.0\Flyweight.AssemblyInfo.cs
+D:\repo\Design-Pattern\DesignPatter\Flyweight\obj\Debug\net5.0\Flyweight.csproj.CoreCompileInputs.cache
+D:\repo\Design-Pattern\DesignPatter\Flyweight\obj\Debug\net5.0\Flyweight.dll
+D:\repo\Design-Pattern\DesignPatter\Flyweight\obj\Debug\net5.0\refint\Flyweight.dll
+D:\repo\Design-Pattern\DesignPatter\Flyweight\obj\Debug\net5.0\Flyweight.pdb
+D:\repo\Design-Pattern\DesignPatter\Flyweight\obj\Debug\net5.0\Flyweight.genruntimeconfig.cache
+D:\repo\Design-Pattern\DesignPatter\Flyweight\obj\Debug\net5.0\ref\Flyweight.dll
