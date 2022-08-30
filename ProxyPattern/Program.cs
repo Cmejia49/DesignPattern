@@ -25,7 +25,7 @@ namespace ProxyPattern
         public string GetData()
         {
             return Data;
-        }
+        }s
     }
 
     /// <summary>
