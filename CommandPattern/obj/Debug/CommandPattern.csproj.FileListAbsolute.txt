@@ -1,0 +1,8 @@
+D:\repo\Design-Pattern\DesignPatter\CommandPattern\bin\Debug\CommandPattern.exe.config
+D:\repo\Design-Pattern\DesignPatter\CommandPattern\bin\Debug\CommandPattern.exe
+D:\repo\Design-Pattern\DesignPatter\CommandPattern\bin\Debug\CommandPattern.pdb
+D:\repo\Design-Pattern\DesignPatter\CommandPattern\obj\Debug\CommandPattern.csproj.AssemblyReference.cache
+D:\repo\Design-Pattern\DesignPatter\CommandPattern\obj\Debug\CommandPattern.csproj.SuggestedBindingRedirects.cache
+D:\repo\Design-Pattern\DesignPatter\CommandPattern\obj\Debug\CommandPattern.csproj.CoreCompileInputs.cache
+D:\repo\Design-Pattern\DesignPatter\CommandPattern\obj\Debug\CommandPattern.exe
+D:\repo\Design-Pattern\DesignPatter\CommandPattern\obj\Debug\CommandPattern.pdb
